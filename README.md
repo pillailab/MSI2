@@ -1,2 +1,2 @@
 # MSI2
-Datasets from analysis of iCLIP for MSI2
+This repository contains datasets from Karmakar et. al from iCLIP analysis.
